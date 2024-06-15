@@ -1,0 +1,9 @@
+huggingface_hub
+pypdf
+sentence-transformers
+llama_index
+langchain
+torch
+chromadb
+python-dotenv
+-e.
